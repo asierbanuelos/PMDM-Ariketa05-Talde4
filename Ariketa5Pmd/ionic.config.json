@@ -1,0 +1,7 @@
+{
+  "name": "Ariketa5Pmd",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
