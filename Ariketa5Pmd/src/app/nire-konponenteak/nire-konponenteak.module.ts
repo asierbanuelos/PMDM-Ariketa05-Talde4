@@ -12,7 +12,7 @@ import { HeaderComponent } from './header/header.component';
     CommonModule,
     IonicModule,
     RouterLink,
-    HeaderComponent
+    
   ],
   exports: [HeaderComponent]
 })
